@@ -3,7 +3,7 @@ package drawing;
 public class Canvas
 {
     private static final char BLANK = ' ';
-    private static final char POINT = 'x';
+    protected static final char POINT = 'x';
     private static final char EDGE_VER = '|';
     private static final char EDGE_HOR = '-';
     private static final char DUMMY_COLOR = (char) -1;
