@@ -3,7 +3,7 @@ package drawing;
 /**
  * Hello world!
  */
-public class App
+public class Drawing
 {
     public static void main(String[] args)
     {
